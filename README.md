@@ -1,0 +1,2 @@
+# premium-sedan-chair-001-sedan-chair-joinery-and-uphols
+Tired of losing track of intricate joinery joints and upholstery choices across your sedan chair projects? This template captures every detail so your craftsmanship is preserved and reproducible.  The Sedan Chair Joinery and Upholstery Log centralizes all joinery and upholstery records in one Notion workspace, from mortise and tenon dimensions to f
